@@ -52,5 +52,11 @@ if(num1 != NULL && num2 != NULL && Operator != NULL)
     return -1;
  }
 }
+ else
+{
+   return -1;
+}
+}
+ 
 
   
